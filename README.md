@@ -1,5 +1,4 @@
 # TPM 2.0 Bypass - Windows 11 Installation
-Fuck you Microsoft
 
 
 ***STEP 1:*** Press Shift + F10 to open Command Prompt and run the “regedit” command
